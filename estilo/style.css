@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caveat:wght@400..700&family=Kumar+One&display=swap');
 
 @font-face {
-    font-family: "Android";
+    font-family: 'Android';
     src: url('.idroid.otf') format('opentype');
     src: url('.idroid.ttf') format('truetype');
     font-weight: normal;
@@ -18,7 +18,7 @@
 
     --fonte-padrao: Arial, Helvetica, Verdana, sans-serif;
     --font-destaque: "Bebas Neue", cursive;
-    --fonte-android: "Android", cursive;
+    --fonte-android: 'Android', Arial, sans-serif;
 }
 *{
     margin: 0px;
